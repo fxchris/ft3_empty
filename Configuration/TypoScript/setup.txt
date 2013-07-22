@@ -1,0 +1,5 @@
+plugin.tx_ft3empty.view {
+	templateRootPath = {$plugin.tx_tx_ft3empty.view.templateRootPath}
+	partialRootPath = {$plugin.tx_tx_ft3empty.view.partialRootPath}
+	layoutRootPath = {$plugin.tx_tx_ft3empty.view.layoutRootPath}
+}

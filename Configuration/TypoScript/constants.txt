@@ -1,0 +1,5 @@
+plugin.tx_ft3empty.view {
+	templateRootPath = EXT:ft3_empty/Resources/Private/Templates/
+	partialRootPath = EXT:ft3_empty/Resources/Private/Partials/
+	layoutRootPath = EXT:ft3_empty/Resources/Private/Layouts/
+}
